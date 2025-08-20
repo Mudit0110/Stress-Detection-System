@@ -9,7 +9,6 @@ An NLP-based project that detects stress in Reddit posts using transformer model
 - Fine-tuned transformer models: BERT, RoBERTa, DistilBERT, ClinicalBERT.  
 - Expanded dataset from ~2.8K to ~11K posts using T5-based paraphrasing.  
 - Benchmarked against traditional ML models such as SVM, Random Forest, and Naive Bayes.  
-- Streamlit interface for real-time predictions.  
 
 ---
 
