@@ -50,7 +50,7 @@ An NLP-based project that detects stress in Reddit posts using transformer model
 - Libraries: Hugging Face Transformers, Scikit-learn, PyTorch, NLTK, NLPaug, Pandas, Matplotlib  
 - Deployment: Streamlit
 
-  ## License  
+## License  
 This project is licensed under the MIT License. See the LICENSE file for details.  
 
 ## Author  
