@@ -55,6 +55,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author  
 **Mudit Shrivastava**  
-- Email: MUDIT.SHRI2002@GMAIL.COM
+Email: MUDIT.SHRI2002@GMAIL.COM
 
 
